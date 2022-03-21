@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laboratory</string>
+    <string name="welcome" translatable="false">Welcome to the app</string>
+    <string name="app">app</string>
+    <string name="Lab">Laboratory</string>
+    <string name="aluno">Jony</string>
+</resources>
